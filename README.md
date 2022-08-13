@@ -8,4 +8,6 @@ Personel kayıt sistemi, C# ve .Net Framework ve kullanılarak oluşturulmuş bi
 - Güncelle = Kaydı günceller.
 - Temizle = Textboxları temizler.
 - İstatistik = Verilerin istatistiğini ayrı bir pencerede görüntüler.
-- Grafikler = Sehir dağılımını ve meslek-maas oranlarının bir tablosunu gösterir.
+- Grafikler = Şehir dağılımını ve meslek-maas oranlarının bir tablosunu gösterir.
+
+Kayıtlar tablosundan istediğiniz kayda çift tıklayarak o kayda ait bilgiler textboxlarda belirmektedir.
