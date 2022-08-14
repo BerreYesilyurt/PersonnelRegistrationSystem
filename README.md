@@ -30,4 +30,9 @@ Ayrıca tabloda iki kere tıklanan kaydın bilgileri textboxlara gelmektedir.
 
 ![](https://user-images.githubusercontent.com/77548130/184543022-7b4eca8d-8854-4aec-825b-ff8ea6406a11.JPG)
 
+#### 5. Grafikler aşağıda görüntülenmektedir.
+
+![](https://user-images.githubusercontent.com/77548130/184543104-a05596b8-55c4-474c-90b9-64c945f76404.JPG)
+
+
 
