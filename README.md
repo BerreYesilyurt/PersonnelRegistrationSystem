@@ -1,6 +1,6 @@
 # Personel Kayıt Sistemi
 ***
-Personel kayıt sistemi, C# ve .Net Framework ve kullanılarak oluşturulmuş bir uygulamadır. Veri tabanıyla bağlantı halindedir.
+Personel kayıt sistemi, C# ve .Net Framework kullanılarak oluşturulmuş bir uygulamadır. Veri tabanıyla bağlantı halindedir.
 
 Kayıtlar tablosundan istediğiniz kayda çift tıklayarak o kayda ait bilgiler textboxlarda belirmektedir.
 
